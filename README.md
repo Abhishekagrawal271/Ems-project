@@ -1,2 +1,8 @@
-# Ems-project
-Developed a React.js based Employee Management System with role based authentication for Admin and Employee. Admin can assign tasks to employees with title, description, date and category. Implemented global state management using Context API and data persistence using localStorage. Built responsive UI using Tailwind CSS with Vite as build tool.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
